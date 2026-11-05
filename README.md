@@ -18,7 +18,7 @@ Noor ek modern, responsive web application hai jisme mukammal Quran Majeed Arabi
 - Framer Motion
 - Lucide React Icons
 
-## Local Development
+## Local Development & Deployment
 ```bash
 # Dependencies install karein
 npm install
@@ -28,4 +28,8 @@ npm run dev
 
 # Production build generate karein
 npm run build
+
+# Direct GitHub Pages par deploy karein (1-Click)
+npm run deploy
 ```
+
